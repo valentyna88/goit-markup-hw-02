@@ -5,6 +5,14 @@ body {
   font-size: 16px;
 }
 
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
 .logo {
   font-weight: 700;
     font-size: 18px;
@@ -12,4 +20,8 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+}
+
+.logo-part {
+  color: #2e2f42;
 }
